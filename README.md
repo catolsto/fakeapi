@@ -9,3 +9,6 @@ Ejemplo
 
 Puede consultar el siguiente servidor como ejemplo:
 https://my-json-server.typicode.com/catolsto/fakeapi/albumnes
+
+Hecho con:
+https://my-json-server.typicode.com/
