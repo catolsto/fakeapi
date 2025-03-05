@@ -8,4 +8,4 @@ Sin registro. No es necesario instalar nada.
 Ejemplo
 
 Puede consultar el siguiente servidor como ejemplo:
-https://my-json-server.typicode.com/catolsto/fakeapi/albumne
+https://my-json-server.typicode.com/catolsto/fakeapi/albumnes
